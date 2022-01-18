@@ -1,0 +1,11 @@
+language: node_js
+node_js: "stable"
+
+dist: bionic
+
+before_install:
+   - stty cols 80
+
+addons:
+   firefox: latest
+   chrome: stable

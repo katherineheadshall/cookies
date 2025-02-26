@@ -1,6 +1,6 @@
 {
   "name": "@katherineheadshall/cookies",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Skip the hard managment of cookies in the front-end, the best and most customizable cookies management lib for front-end in the world!",
   "author": "katherineheadshall",
   "main": "cookies.js",

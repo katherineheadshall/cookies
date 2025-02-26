@@ -2,6 +2,8 @@
 
 Skip the hard steps to manage the cookie in the front-end, use the standard from W3C.
 
+> Legacy release, reach github for release notes.
+
 ## Install
 
 ```
